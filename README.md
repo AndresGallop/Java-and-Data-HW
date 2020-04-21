@@ -2,4 +2,4 @@
 This is my last homework of Multimedia Authoring 
 
 # MIT License
-This falls under the MIT license
+This falls under the MIT lice
